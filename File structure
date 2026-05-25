@@ -1,0 +1,21 @@
+froggy-quest/
+├── docs/
+│   ├── game-design-document.md
+│   ├── story.md
+│   └── cousins/
+│
+├── assets/
+│   ├── sprites/
+│   ├── backgrounds/
+│   ├── ui/
+│   ├── music/
+│   └── sound-effects/
+│
+├── game/
+│   └── (Godot project files)
+│
+├── tools/
+│
+├── README.md
+├── LICENSE
+└── .gitignore
